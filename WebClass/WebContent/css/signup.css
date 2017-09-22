@@ -1,0 +1,13 @@
+@CHARSET "utf-8";
+#ssignupp { 
+	height : 500px;
+	width : 300px;
+	border : solid pink;
+	text-align: center;
+	margin : auto;
+}
+#sssignuppp {
+	background-color:black;
+	font-style: italic;
+	color : white;
+}

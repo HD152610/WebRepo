@@ -1,0 +1,8 @@
+@CHARSET "utf-8";
+
+#iam {
+	height : 500px;
+	width : 350px;
+	border : solid pink;
+	margin : auto;
+}
