@@ -24,9 +24,21 @@ public class UserVO {
 		return id;
 	}
 	
+	
+	public UserVO(String id, String name, String nickname) {
+		this.id = id;
+		this.name = name;
+		this.nickname = nickname;
+	}
+	
+	public UserVO() {
+		
+	}
+
 	public void setId(String id) {
 		this.id = id;
 	}
+	
 	
 	public String getName() {
 		return name;
